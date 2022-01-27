@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="19162" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_1" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="19144"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <collectionViewCell opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" id="gTV-IL-0wX" customClass="FirstCollectionCell">
+            <rect key="frame" x="0.0" y="0.0" width="90" height="59"/>
+            <autoresizingMask key="autoresizingMask"/>
+            <view key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center">
+                <rect key="frame" x="0.0" y="0.0" width="90" height="59"/>
+                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                <subviews>
+                    <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="SHw-rH-nLI">
+                        <rect key="frame" x="0.0" y="0.0" width="90" height="59"/>
+                        <subviews>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="cIl-pk-JSF">
+                                <rect key="frame" x="5" y="0.0" width="80" height="59"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="12"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                        </subviews>
+                        <color key="backgroundColor" white="0.66666666666666663" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <constraints>
+                            <constraint firstAttribute="trailing" secondItem="cIl-pk-JSF" secondAttribute="trailing" constant="5" id="06C-gv-1l2"/>
+                            <constraint firstItem="cIl-pk-JSF" firstAttribute="leading" secondItem="SHw-rH-nLI" secondAttribute="leading" constant="5" id="2NW-tU-9pK"/>
+                            <constraint firstItem="cIl-pk-JSF" firstAttribute="top" secondItem="SHw-rH-nLI" secondAttribute="top" id="Nf8-LX-vXE"/>
+                            <constraint firstAttribute="bottom" secondItem="cIl-pk-JSF" secondAttribute="bottom" id="UgG-Sg-pQ6"/>
+                        </constraints>
+                    </view>
+                </subviews>
+            </view>
+            <viewLayoutGuide key="safeArea" id="SEy-5g-ep8"/>
+            <constraints>
+                <constraint firstItem="SHw-rH-nLI" firstAttribute="leading" secondItem="gTV-IL-0wX" secondAttribute="leading" id="3he-hE-AeQ"/>
+                <constraint firstAttribute="trailing" secondItem="SHw-rH-nLI" secondAttribute="trailing" id="8eg-qF-Bzo"/>
+                <constraint firstItem="SHw-rH-nLI" firstAttribute="top" secondItem="gTV-IL-0wX" secondAttribute="top" id="Hba-PS-rc9"/>
+                <constraint firstAttribute="bottom" secondItem="SHw-rH-nLI" secondAttribute="bottom" id="L3N-0D-Fit"/>
+            </constraints>
+            <size key="customSize" width="90" height="59"/>
+            <connections>
+                <outlet property="cornerView" destination="SHw-rH-nLI" id="TXa-WG-WI9"/>
+                <outlet property="titleLabel" destination="cIl-pk-JSF" id="GZD-k2-HYv"/>
+            </connections>
+            <point key="canvasLocation" x="166.66666666666669" y="112.83482142857142"/>
+        </collectionViewCell>
+    </objects>
+</document>

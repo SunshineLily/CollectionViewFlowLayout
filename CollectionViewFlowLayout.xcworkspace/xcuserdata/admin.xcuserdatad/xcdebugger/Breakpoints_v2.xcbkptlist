@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "40198E46-E6FF-4A96-A55F-FCA03593619A"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.ExceptionBreakpoint">
+         <BreakpointContent
+            uuid = "8B33E76E-B5B8-47A5-9E5F-CB5752178C61"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            breakpointStackSelectionBehavior = "1"
+            scope = "1"
+            stopOnStyle = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D72DEB18-0A59-452F-B7C6-A58FB3C8DC2B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CollectionViewFlowLayout/item&#x5bbd;&#x5ea6;&#x56fa;&#x5b9a;&#x9ad8;&#x5ea6;&#x4e0d;&#x56fa;&#x5b9a;&#x4e24;&#x5217;&#x5e03;&#x5c40;/SecondWaterFlowLayout.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "55"
+            endingLineNumber = "55"
+            landmarkName = "-prepareLayout"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "701538E4-E9D1-4F73-B5A9-B18365BE68C6"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CollectionViewFlowLayout/item&#x5bbd;&#x5ea6;&#x56fa;&#x5b9a;&#x9ad8;&#x5ea6;&#x4e0d;&#x56fa;&#x5b9a;&#x4e24;&#x5217;&#x5e03;&#x5c40;/SecondWaterFlowLayout.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "57"
+            endingLineNumber = "57"
+            landmarkName = "-prepareLayout"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BB8F6E50-DE92-4A4F-8917-DE852D2C8FEE"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CollectionViewFlowLayout/item&#x5bbd;&#x5ea6;&#x56fa;&#x5b9a;&#x9ad8;&#x5ea6;&#x4e0d;&#x56fa;&#x5b9a;&#x4e24;&#x5217;&#x5e03;&#x5c40;/SecondWaterFlowLayout.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "45"
+            endingLineNumber = "45"
+            landmarkName = "-prepareLayout"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3FD874D0-382A-4A23-B973-CDE807A306DC"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CollectionViewFlowLayout/item&#x5bbd;&#x5ea6;&#x56fa;&#x5b9a;&#x9ad8;&#x5ea6;&#x4e0d;&#x56fa;&#x5b9a;&#x4e24;&#x5217;&#x5e03;&#x5c40;/SecondWaterFlowLayout.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "60"
+            endingLineNumber = "60"
+            landmarkName = "-prepareLayout"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1EDD735A-B0A6-4A1C-AA32-8EA680C1E1C2"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CollectionViewFlowLayout/item&#x5bbd;&#x5ea6;&#x56fa;&#x5b9a;&#x9ad8;&#x5ea6;&#x4e0d;&#x56fa;&#x5b9a;&#x4e24;&#x5217;&#x5e03;&#x5c40;/SecondWaterFlowLayout.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "49"
+            endingLineNumber = "49"
+            landmarkName = "-prepareLayout"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
